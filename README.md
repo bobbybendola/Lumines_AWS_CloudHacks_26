@@ -3,7 +3,7 @@
 
 ## Link to Demo: https://www.youtube.com/watch?v=CwdlD1hMRDI 
 
-##DevPost: https://devpost.com/software/lumines
+## DevPost: https://devpost.com/software/lumines
 
 ## Inspiration
 California is leading the charge against fossil fuels, with a growing push to get households onto solar energy. But despite the initiative, there's no easy way for the average homeowner to understand their real energy impact, how much solar they're actually generating, how much carbon they're still emitting, and how they compare to the people living right next to them. 
